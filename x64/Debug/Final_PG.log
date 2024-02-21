@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(73,38): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(74,39): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(79,38): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(80,39): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(180,13): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(181,13): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(193,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(193,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(215,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(216,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(411,96): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(412,97): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(418,96): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(419,97): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(450,118): error C3861: 'computeLightSpaceTrMatrix': identifier not found
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(450,2): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+C:\Users\sirbu\OneDrive\Desktop\Pg proiect\Final_PG\Final_PG\main.cpp(511,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
